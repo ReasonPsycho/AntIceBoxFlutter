@@ -1,6 +1,6 @@
 # stick_bug_app
 
-App jor Jagodka
+App jor gf
 
 ## Getting Started
 
